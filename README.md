@@ -1,6 +1,7 @@
 # PyGame Movement Demo
 
 A small PyGame project demonstrating common player movement patterns and collision handling.
+I use these files in my tutoring business, where I teach kids how to code their own games using Python.
 
 ## Features
 
