@@ -1,6 +1,9 @@
 # PyGame Movement Demo
 
 A small PyGame project demonstrating common player movement patterns and collision handling.
+
+This repo is primarily a learning/demo project for experimenting with common 2D game movement patterns in PyGame.
+
 I use these files in my tutoring business, where I teach kids how to code their own games using Python.
 
 ## Features
@@ -67,4 +70,4 @@ player.py
     Movement and collision logic
 ```
 
-This repo is primarily a learning/demo project for experimenting with common 2D game movement patterns in PyGame.
+
